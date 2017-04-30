@@ -3,6 +3,7 @@ output:
   md_document:
     variant: markdown_github
 ---
+[![Build Status](https://travis-ci.org/josealburgos/CourseraPackage.svg?branch=master)](https://travis-ci.org/josealburgos/CourseraPackage)
 
 This package can be installed using the devtools package as follows:
 
