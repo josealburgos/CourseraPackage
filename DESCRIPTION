@@ -1,0 +1,16 @@
+Package: CourseraPackage
+Type: Package
+Title: This package graphs accidents in the USA by State
+Version: 0.1.0
+Depends: R(>= 3.2.0)
+Imports: readr, dplyr,magrittr, tidyr, maps, testthat
+Author: Copied from Coursera
+Maintainer: Jose Burgos <joseal.burgos@gmail.com>
+Description: Graphs on a map of the USA accidents by State
+ uses data from US National Highway Traffic Safety Administration
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr
+VignetteBuilder: knitr
